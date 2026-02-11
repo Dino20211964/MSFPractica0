@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información del estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Victor Silvano Dino Seañez \[20211964]; l20211964@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
