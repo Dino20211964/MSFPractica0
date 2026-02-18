@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica: Sistema respiratorio simplificado'
+message: Modelado de sistemas fisiologicos / ingenieria biomedica
+type: software
+authors:
+  - given-names: Victor Silvano
+    family-names: Dino Seañez
+    email: l20211964@tijuana.tecnm.mx
+    affiliation: Tecnologico Nacional de Mexico
+  - {}
+identifiers:
+  - type: url
+    value: 'https://github.com/Dino20211964/MSFPractica0'
+repository-code: 'https://github.com/Dino20211964/MSFPractica0'
+keywords:
+  - sistema respiratorio simulaciones  numericas
+  - ' circuito rlc'
+  - controlador PID
+  - modelo matematico
+  - simulaciones  numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-17'
